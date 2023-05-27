@@ -2,8 +2,8 @@ import { defineUserConfig, defaultTheme } from 'vuepress'
 
 export default defineUserConfig({
   lang: 'en-US',
-  title: 'Hello VuePress',
-  description: 'Just playing around',
+  title: 'PHP Fullstack',
+  description: 'Become a fullstack PHP developer',
   theme: defaultTheme({
     // default theme config
     navbar: [
