@@ -4,6 +4,7 @@ export default defineUserConfig({
   lang: 'en-US',
   title: 'PHP Fullstack',
   description: 'Become a fullstack PHP developer',
+  base: '/php-fullstack-articles/',
   theme: defaultTheme({
     // default theme config
     navbar: [
