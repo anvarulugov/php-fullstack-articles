@@ -1,0 +1,19 @@
+{
+  "name": "php-fullstack-articles",
+  "version": "0.0.1",
+  "description": "Become a fullstack PHP developer",
+  "main": "index.js",
+  "authors": {
+    "name": "Anvar Ulugov",
+    "email": ""
+  },
+  "repository": "git@github.com:anvarulugov/php-fullstack-articles.git/php-fullstack-articles",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
