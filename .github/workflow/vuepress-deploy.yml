@@ -14,5 +14,5 @@ jobs:
         TARGET_REPO: anvarulugov/php-fullstack-articles
         TARGET_BRANCH: main
         BUILD_SCRIPT: yarn && yarn docs:build
-        BUILD_DIR: docs/src/.vuepress/dist
+        BUILD_DIR: docs/.vuepress/dist
         #CNAME: https://www.xxx.com
